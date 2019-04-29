@@ -11,8 +11,8 @@ overview
 =======
 
 this is an MIT-licensed commented implementation of the MLS-MPM algorithm for simulating soft bodies and fluids. it's intended to accompany [this article](https://nialltl.neocities.org/articles/mpm_guide.html). 
-u
-this project is made using **Unity**, and makes use of the **Burst compiler** and **High-Performance C#**. it's partially parallelised to run at interactive rates, but this is intended more as a learning reference than a final implementation.
+
+this project is made in **Unity**, and makes use of the **Burst compiler** and **High-Performance C#**. it's partially parallelised to run at interactive rates, but this is intended more as a learning reference than a final implementation.
 
 all examples are single-file and self-contained. this package contains 3 scenes:
 
