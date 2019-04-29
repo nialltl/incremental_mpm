@@ -1,14 +1,14 @@
-incremental MPM
+Incremental MPM
 ======
 
-<img src="https://nialltl.neocities.org/articles/img/mpm_guide/mpm_first_pass.gif" width="33%" /><img src="https://nialltl.neocities.org/articles/img/mpm_guide/mpm_neohookean.gif" width="33%" /><img src="https://nialltl.neocities.org/articles/img/mpm_guide/mpm_fluid_constitutive_model.gif" width="33%" />
+**accompanying article**: [notes and examples for the material point method](https://nialltl.neocities.org/articles/mpm_guide.html)
+
+<img src="https://nialltl.neocities.org/articles/img/mpm_guide/mpm_neohookean.gif" width="50%" /><img src="https://nialltl.neocities.org/articles/img/mpm_guide/mpm_fluid_constitutive_model.gif" width="50%" />
 
 overview
 =======
 
-**accompanying article**: [notes and examples for the material point method](https://nialltl.neocities.org/articles/mpm_guide.html)
-
-this is an MIT-licensed commented implementation of the MLS-MPM algorithm for simulating soft bodies and fluids. 
+this is an MIT-licensed commented implementation of the MLS-MPM algorithm for simulating soft bodies and fluids. it's intended to accompany [this article](https://nialltl.neocities.org/articles/mpm_guide.html).
 
 all examples are single-file and self-contained. this package contains 3 scenes:
 
