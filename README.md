@@ -8,7 +8,9 @@ Incremental MPM
 overview
 =======
 
-this is an MIT-licensed commented implementation of the MLS-MPM algorithm for simulating soft bodies and fluids. it's intended to accompany [this article](https://nialltl.neocities.org/articles/mpm_guide.html).
+this is an MIT-licensed commented implementation of the MLS-MPM algorithm for simulating soft bodies and fluids. it's intended to accompany [this article](https://nialltl.neocities.org/articles/mpm_guide.html). 
+
+this project is made using Unity 2018.3.10f1, and makes use of the _Burst compiler_ and _High-Performance C#_. it's partially parallelised to run at interactive rates, but this is intended more as a learning reference than a final implementation.
 
 all examples are single-file and self-contained. this package contains 3 scenes:
 
